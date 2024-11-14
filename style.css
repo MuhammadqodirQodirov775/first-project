@@ -1,0 +1,87 @@
+.katta{
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: beige;
+    padding: 30px;
+    
+}
+
+.box1{
+    width: 22%;
+    height: 325px;
+    text-align: center;
+    background-color: burlywood;
+}
+.box1>img{
+    width: 100%;
+    height: 170px;
+}
+.box1>button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: goldenrod;
+    border: none;
+}
+
+
+.box2{
+    width: 22%;
+    height: 325px;
+    text-align: center;
+    background-color: burlywood;
+}
+.box2>img{
+    width: 100%;
+    height: 170px;
+}
+.box2>button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: goldenrod;
+    border: none;
+}
+
+
+.box3{
+    width: 22%;
+    height: 325px;
+    text-align: center;
+    background-color: burlywood;
+}
+.box3>img{
+    width: 100%;
+    height: 170px;
+}
+.box3>button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: goldenrod;
+    border: none;
+}
+
+
+.box4{
+    width: 22%;
+    height: 325px;
+    text-align: center;
+    background-color: burlywood;
+}
+.box4>img{
+    width: 100%;
+    height: 170px;
+}
+.box4>button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: goldenrod;
+    border: none;
+}
+
+
+
